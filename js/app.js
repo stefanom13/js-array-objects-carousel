@@ -60,8 +60,8 @@ const slide = [
 
 const slideWrapper = document.querySelector('.slide-wrapper')
 const controlImage = document.querySelector('.secondaryImages')
-const buttSucc = document.querySelector('.up')
-const buttPrec = document.querySelector('.down')
+const buttSucc = document.querySelector('.down')
+const buttPrec = document.querySelector('.up')
 
 let currentIndex = 0
 
